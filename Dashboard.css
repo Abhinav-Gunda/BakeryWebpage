@@ -1,0 +1,162 @@
+﻿body {
+    font-family: Constantia;
+    background: url(https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/wymxeok9nqkpdjhjtdjk)no-repeat;
+    background-size: 1550px 820px;
+}
+
+.box {
+    background: linear-gradient(180deg, rgba(0,0,0,0.8690826672465861) 60%, rgba(57,197,200,0) 90%);
+    width : 600px;
+    float: right;
+    margin-top:5px;
+    padding-top:6px;
+    padding-bottom:5px;
+    font-family:Constantia;
+    margin-bottom:10px
+}
+
+.box ul li{
+    width:120px;
+    float:left;
+    text-align:center;
+}
+
+.box ul li :hover {background-color : green}
+
+.box ul li a{
+    text-decoration : none;
+    color : white;
+}
+.box ul li a :hover {color : white}
+
+.wd {
+    width: 300px;
+    height: 700px;
+    background-color: black;
+    opacity: 1;
+    padding: 55px;
+    text-align: center;
+    color: white;
+}
+
+.wd h1{
+    margin-top : 10px;
+    text-align : center;
+    font-weight : 700 ;
+    font-size :xx-large;
+}
+
+.wd p{
+    padding-top: 5px;
+    text-align:justify;
+
+}
+
+.wd h2{
+    margin-top:50px;
+    text-align : center;
+    font-weight : 700 ;
+    font-size : x-large;
+}
+
+#Content3{
+    background-color:black;
+}
+
+.men {
+    margin-top:5px;
+    background-color:black;
+}
+
+#title{
+    color : white;
+    padding-top: 30px;
+    margin-bottom:0px
+    
+}
+
+#card {
+    margin-top : 50px;
+    margin-bottom:50px;
+    padding-top: 50px;
+    padding-bottom:50px;
+    color: white;
+    background-color:black;
+    opacity:0.8;
+}
+
+#card div{
+    align-items:end;
+    align-content:end;
+    align-self:end;
+}
+
+.buy {
+    margin-top:20px;
+    color: black;
+    font-size: 22px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#x {
+    padding:20px;
+    margin-top: 20px;
+    background-color:aqua;
+    color:red;
+    
+}
+
+.c1 {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: aqua;
+    color: red;
+}
+
+#ListView1 table tr th{
+    color:white;
+    padding:30px;
+    margin:30px;
+
+}
+
+.cart {
+    margin-top: 50px;
+    color: white;
+    font-size: large;
+}
+
+table {
+    text-align:center;
+    border-collapse: separate;
+    border-spacing: 50px 10px;
+    width: 500px;
+    height: 40px;
+    border: 2px solid;
+    background-color: black;
+    padding: 1%;
+    opacity: 0.8;
+}
+
+table.table td,tr {
+    padding:0px;
+    color:white;
+    border-bottom:none;
+}
+
+#bill {
+    margin-top: 20px;
+    color: black;
+    font-size: 22px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#l1,#l2 {
+    margin-top: 20px;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
